@@ -1,0 +1,10 @@
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csprojAssemblyReference.cache
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Form1.resources
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Properties.Resources.resources
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.GenerateResource.cache
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\Users\ekkel\source\repos\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
